@@ -13,8 +13,6 @@ La red consiste en una RNN con capas LSTM y una capa de salida completamente con
 - numpy
 - [TensorFlow](https://www.tensorflow.org/)
 
-¿Cómo usarlo?
-
 
 ## Generando los datos de entrenamiento
 
